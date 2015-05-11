@@ -3,10 +3,12 @@ This is an Open-Source project coded in Python within the Blender Game Engine. T
 Shawn Hill & Eric Wilkins
 
 Introdution
+
 PythonCraft is a construction/survival game that pits the player against a hostile environment with his imagination and environment as the player’s weapons. This game is a PC game run from an executable that will appeal to fans of common building games found on PC, such as Minecraft, and will also attract players who have been in the indie game market playing similar survival games. The game will feature multiple components, such as building, crafting, fighting, interacting with non player characters, and basic python programming for construction of buildings using the in game items, “BlockBots.”
 
 
 Overview
+
 PythonCraft uses the open-source Blender game engine.
 
 The player will have the option of being able to input a world code that will spawn a certain type of world or generate it at random. There will also be options that affect the size of the world, how the world is shaded, and much more in the future.
